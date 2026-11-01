@@ -1,6 +1,6 @@
 ### Haptic Navigation Headband
 
-Hi, I'm Amitav. I'm making this with Aarush and Toby, who's doing the coding. It's a headband for blind people that uses two distance sensors and three vibration motors to give feedback about nearby obstacles.
+Hello, I am Amitav. I'm making this project with Aarush (graphic designer) and Toby, who's doing the coding. This project is a headband for blind people that uses two distance sensors and three vibration motors to give feedback about nearby obstacles.
 
 A relative of mine lost his sight through optic nerve atrophy, which got me started on this. He's our client, and we want to find out whether the vibrations are useful and the band is comfortable. The idea is extra feedback without covering his ears. It isn't a replacement for a cane.
 
