@@ -1,0 +1,1 @@
+(sym_lib_table (lib (name "headband") (type "KiCad") (uri "${KIPRJMOD}/headband.kicad_sym") (options "") (descr "Typed carrier interface symbols")))
