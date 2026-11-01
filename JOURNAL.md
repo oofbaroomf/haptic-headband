@@ -24,7 +24,7 @@ time spent: about 2 hrs
 
 more research and talking through whether there's actually a gap here. don't want to spend ages making something without knowing why.
 
-the bit we're interested in is obstacle feedback without covering the ears or needing to hold another device. still an extra aid, not a replacement for a cane. keeping the first version fairly basic so we have something we can actually test.
+the bit we're interested in is obstacle feedback without covering the ears or needing to hold another device. keeping the first version fairly basic so we have something we can actually test.
 
 time spent: about 2 hrs
 
